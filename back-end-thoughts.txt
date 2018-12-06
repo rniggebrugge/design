@@ -21,7 +21,8 @@ Slide 7:
 - this idea is very close to the Monitoring Tool EJN will have for website:
    what countries did update (implication: what countries did not?)
    For EJN site: a change in status of implementation of instrument I by country C will have implications for certain areas of the Atlas for that country.
-- how are the rules defined and managed? Relations between pages, or also other assets? Could imagine change to document (like adoption of EJ regulation) has implications for many pages.
+- how are the rules defined and managed? Relations between pages, or also other assets? Could imagine change to document 
+(like adoption of EJ regulation) has implications for many pages.
 
 Slide 8:
 - publishing items on Twitter directly from back end. Who can do this?

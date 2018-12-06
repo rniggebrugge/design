@@ -20,7 +20,8 @@ Slide 6:
 Slide 7:
 - this idea is very close to the Monitoring Tool EJN will have for website:
    what countries did update (implication: what countries did not?)
-   For EJN site: a change in status of implementation of instrument I by country C will have implications for certain areas of the Atlas for that country.
+   For EJN site: a change in status of implementation of instrument I by country C will have implications for 
+   certain areas of the Atlas for that country.
 - how are the rules defined and managed? Relations between pages, or also other assets? Could imagine change to document 
 (like adoption of EJ regulation) has implications for many pages.
 
@@ -31,7 +32,8 @@ Slide 9:
 - time spent on site, pages consulted, documents downloaded, returning visitors, visits (per visitor) per month/year
 - how is content reached, how do people enter the site
 - some demographics (who, where from)
-- what would be considered "good statistics", keeping in mind the possible audiences for a dedicated site like Eurojust
+- what would be considered "good statistics", keeping in mind the possible audiences for a dedicated 
+site like Eurojust
 
 Slide 10:
 - good to have access to templates and stylesheets and not to depend on (external) developer
@@ -54,7 +56,8 @@ Slide 14:
 
 Slide 15:
 - what are requirements of website itself?
-- can tree jack be explained, I think it relates to how findable items are and thus how intuitive the structure of the site is.
+- can tree jack be explained, I think it relates to how findable items are and thus how intuitive 
+the structure of the site is.
 - if possible I would like to stay involved
 
 Slide 16: 

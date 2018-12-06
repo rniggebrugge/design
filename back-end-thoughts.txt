@@ -9,8 +9,10 @@ EJ WEBSITE BACK END
 Slide 5
 - possibility to choose for static (predefined) and dynamic lists
 - filter/sorter for dynamic lists should be editable. Multiple engines can be maintained and selected where required
-- mass file upload + mass processing: resizing, cropping and other (image)processing. Using "templates" to reuse processing steps
-- automatically generated ids, plus semi-automatic public ids based on document properties (public/private, category, etc.)
+- mass file upload + mass processing: resizing, cropping and other (image)processing. Using "templates" 
+to reuse processing steps
+- automatically generated ids, plus semi-automatic public ids based on document properties 
+(public/private, category, etc.)
 
 Slide 6:
 - open/closed taxonomy. Who controls, manages taxonomy?

@@ -1,0 +1,75 @@
+EJ WEBSITE BACK END
+
+- integration with dms, vacancy notices, publications, etc.
+- possibility to import articles, images, etc., using templates?
+- possibility to export assets
+- advanced search options
+- batch processing (on items found by search)
+
+Slide 5
+- possibility to choose for static (predefined) and dynamic lists
+- filter/sorter for dynamic lists should be editable. Multiple engines can be maintained and selected where required
+- mass file upload + mass processing: resizing, cropping and other (image)processing. Using "templates" to reuse processing steps
+- automatically generated ids, plus semi-automatic public ids based on document properties (public/private, category, etc.)
+
+Slide 6:
+- open/closed taxonomy. Who controls, manages taxonomy?
+- what's meant with "workflow for publications but..."?
+- is final approval manager part of the back-end, or communicated (by email, phone, etc.) by manager to website administrator? 
+
+Slide 7:
+- this idea is very close to the Monitoring Tool EJN will have for website:
+   what countries did update (implication: what countries did not?)
+   For EJN site: a change in status of implementation of instrument I by country C will have implications for certain areas of the Atlas for that country.
+- how are the rules defined and managed? Relations between pages, or also other assets? Could imagine change to document (like adoption of EJ regulation) has implications for many pages.
+
+Slide 8:
+- publishing items on Twitter directly from back end. Who can do this?
+
+Slide 9:
+- time spent on site, pages consulted, documents downloaded, returning visitors, visits (per visitor) per month/year
+- how is content reached, how do people enter the site
+- some demographics (who, where from)
+- what would be considered "good statistics", keeping in mind the possible audiences for a dedicated site like Eurojust
+
+Slide 10:
+- good to have access to templates and stylesheets and not to depend on (external) developer
+- manager has final approval right for publication, but other, far-reaching permissions I guess
+- should css/templates be moved to administrator?
+- what is "create and change forms", is this the creation and editing of asset types?
+
+Slide 11:
+- presumbly the vpn is concidered extension of the EJ Office network. People can still work remotely, good thing
+- tracibility, accountability
+- protected areas of the website? If so, how is access granted and managed?
+
+Slide 12:
+- easy to set up, difficult to maintain (content wise)
+- good to use these tools.
+
+Slide 13:
+
+Slide 14:
+
+Slide 15:
+- what are requirements of website itself?
+- can tree jack be explained, I think it relates to how findable items are and thus how intuitive the structure of the site is.
+- if possible I would like to stay involved
+
+Slide 16: 
+- also adaptibility can be considered:
+	- do we want things to be changed easily?
+	- changes to content are obvious
+	- changes to design as well
+	
+Slide 17:
+- on slide 15 there's talk of sample website and design, but this should be done after the wireframes...
+- IM-OP and BBM to work on wireframe, why not also involving others? It's not technical, nor requires artistic talent.
+- are ICT Security and DP also concerned about what can seen in back end?
+
+Slide 18:
+
+Slide 19:
+Slide 20:
+is launch planned for 2019 or, judging from the graph, at some point in near future after 2019?
+
